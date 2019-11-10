@@ -20,13 +20,13 @@ obd2cables.com   P/N: 144201   Cable, J1962M to J1962F, OBD II Extension Cable, 
 
 It is unsure if this project will grow to support exotic and fast protocols (flexray), without the use of an FPGA, but the PRU should be able to support basic protocol modules such as:
 
-GM SWCAN
-HS-CAN
-MS-CAN
-ISO 9141-2
-KWP2000
-J1850PWM
-J1850VPW
+GM SWCAN | 
+HS-CAN | 
+MS-CAN | 
+ISO 9141-2 | 
+KWP2000 | 
+J1850PWM | 
+J1850VPW | 
 
 
 
